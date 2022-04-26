@@ -1,6 +1,6 @@
 # HackSpring-永恒之春
 
-本项目用来致敬全宇宙最无敌Spring框架！同时也记录自己在学习Spring漏洞过程中遇到的一些内容。本项目会持续更新，本项目创建于2022年3月30日，最近的一次更新时间为2022年4月11日。作者：[0e0w](https://github.com/0e0w)
+本项目用来致敬全宇宙最无敌Spring框架！同时也记录自己在学习Spring漏洞过程中遇到的一些内容。本项目会持续更新，本项目创建于2022年3月30日，最近的一次更新时间为2022年4月26日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Spring基础知识]()
 - [02-Spring框架识别]()
@@ -90,6 +90,8 @@ class.module.classLoader.resources.context.parent.pipeline.first.pattern=%25%7Bc
 - https://github.com/YanMu2020/SpringScan
 - https://github.com/wearearima/poc-cve-2018-1273
 - https://github.com/metaStor/SpringScan
+- https://github.com/fullhunt/spring4shell-scan
+- https://github.com/Qualys/spring4scanwin
 
 ## 06-Spring漏洞修复
 
